@@ -53,3 +53,16 @@ ul {
   padding: 0;
   gap: 20px;
 }
+
+.left-side {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.right-side {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
