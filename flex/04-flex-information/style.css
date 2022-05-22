@@ -29,3 +29,10 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.all-items {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  gap : 52px;
+}
