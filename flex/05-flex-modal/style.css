@@ -68,3 +68,12 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.header{
+font-size: 18px;
+font-weight: 700;
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 8px;
+}
