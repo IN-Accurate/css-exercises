@@ -56,5 +56,5 @@ a{
   align-items: center;
   justify-content: center;
   flex-direction:column;
-  margin: 100px;
+  flex :1;
 }
