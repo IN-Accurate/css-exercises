@@ -26,7 +26,7 @@ input {
   margin-bottom: 16px;
 }
 
-.body{
+body{
   display: flex;
   flex-direction: column;
 }
@@ -46,20 +46,18 @@ a{
 
 .footer,.header{
     display: flex;
-    align-items: center;
     justify-content: space-between;
     padding : 16px;
 }
 
 .content{
+  flex: 1;
   display:flex;
   align-items: center;
   justify-content: center;
   flex-direction:column;
-  flex :1;
 }
 
-
 button {
-  padding: 10px 20px;
+  padding: 8px 16px;
 }
