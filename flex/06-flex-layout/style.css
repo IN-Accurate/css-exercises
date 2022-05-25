@@ -58,3 +58,8 @@ a{
   flex-direction:column;
   flex :1;
 }
+
+
+button {
+  padding: 10px 20px;
+}
