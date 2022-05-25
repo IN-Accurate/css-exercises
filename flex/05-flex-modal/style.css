@@ -70,8 +70,8 @@ button.cancel {
 }
 
 .header{
-font-size: 18px;
-font-weight: 700;
+font-size: 20px;
+font-weight: 600;
 display: flex;
 align-items: center;
 justify-content: space-between;
