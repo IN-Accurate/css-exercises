@@ -65,3 +65,9 @@ a {
   flex-shrink: 0;
   padding: 16px;
 }
+
+.cardcontainer {
+  padding: 32px;
+  display: flex;
+  flex-wrap: wrap;
+}
