@@ -64,6 +64,7 @@ a {
 .sidebar {
   flex-shrink: 0;
   padding: 16px;
+  width: 300px;
 }
 
 .cardcontainer {
