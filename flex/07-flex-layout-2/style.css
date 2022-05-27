@@ -31,3 +31,9 @@ body{
   display: flex;
   flex-direction: column;
 }
+
+.header{
+   font-size: 32px;
+   font-weight: 900;
+   padding:16px;
+}
