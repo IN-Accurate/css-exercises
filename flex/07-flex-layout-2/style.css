@@ -40,3 +40,7 @@ body{
   align-items: center;
 }
 
+.bodycontainer{
+  display: flex;
+  flex: 1;
+}
